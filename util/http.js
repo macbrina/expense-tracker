@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_URL = "https://reactnativecourse-ded16-default-rtdb.firebaseio.com";
+const API_URL = "YOUR FIREBASE API URL HERE";
 
 export async function storeExpense(expenseData) {
   try {
